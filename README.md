@@ -19,7 +19,7 @@ Aplicación de consola que convierte entre monedas usando [ExchangeRate-API](htt
 
    API_KEY=[tu_api_key]
    
-4. Compila y ejecuta.
+3. Compila y ejecuta.
 
 ## 📌 Próximas Mejoras
 Añadir historial de conversiones con SQLite.
