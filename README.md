@@ -20,3 +20,13 @@ Aplicación de consola que convierte entre monedas usando [ExchangeRate-API](htt
    API_KEY=[tu_api_key]
    
 4. Compila y ejecuta.
+
+## 📌 Próximas Mejoras
+Añadir historial de conversiones con SQLite.
+
+Interfaz gráfica con JavaFX.
+
+Soporte para criptomonedas.
+
+## 🤝 Contribuir
+¡Pull requests son bienvenidos! Reporta bugs o sugerencias en Issues.
