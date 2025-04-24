@@ -14,7 +14,7 @@ Aplicación de consola que convierte entre monedas usando [ExchangeRate-API](htt
 
 ## 🛠 Cómo Ejecutarlo  
 1. Clona el repositorio:    
-   git clone https://github.com/tu-usuario/conversor-moneda-java.git
+   git clone https://github.com/fersho101/moneda-conversor.git
 2. Crea el archivo src/config.properties con tu API Key de [ExchangeRate-API](https://www.exchangerate-api.com/):
 
    API_KEY=[tu_api_key]
