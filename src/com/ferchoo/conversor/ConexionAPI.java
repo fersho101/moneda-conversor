@@ -14,7 +14,7 @@ public class ConexionAPI {
     static {
         try{
             Properties props = new Properties();
-            props.load(new FileInputStream("/src/config.properties"));
+            props.load(new FileInputStream("src/config.properties"));
             API_KEY = props.getProperty("API_KEY");
         } catch (Exception e) {
             System.err.println(" Error al cargar la API key: " + e.getMessage());
