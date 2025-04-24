@@ -1,4 +1,5 @@
-import com.google.gson.*;
+package com.ferchoo.conversor;
+
 import org.json.JSONObject;
 
 public class Conversor {

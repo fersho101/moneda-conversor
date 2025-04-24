@@ -1,3 +1,5 @@
+package com.ferchoo.conversor;
+
 import java.net.URI;
 import java.net.URL;
 import java.net.http.HttpClient;
